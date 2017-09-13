@@ -1,137 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Cédric Rommel </title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="preload" href="../fonts/PTSerif.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="../fonts/PTSans.woff2" as="font" type="font/woff2" crossorigin>
-  <style>
-  @font-face {
-    font-family: 'PTSerif';
-    src: local('PT Serif'), local('PTSerif'),
-         url('../fonts/PTSerif.woff2') format('woff2'),
-         url('../fonts/PTSerif.woff') format('woff');
-  }
+---
+layout: page
+title: Home
+---
 
-  @font-face {
-    font-family: 'PTSans';
-    src: local('PT Sans'), local('PT Sans'),
-         url('../fonts/PTSans.woff2') format('woff2'),
-         url('../fonts/PTSans.woff') format('woff');
-  }
+<p>I am a PhD student in Optimization and Statistical Learning at Ecole Polytechnique (<a href="http://www.cmap.polytechnique.fr/">CMAP</a>), working at the french start up <a href="https://www.safety-line.fr/">Safety Line</a>. My supervisors are Frédéric Bonnans and Pierre Martinon, from INRIA Saclay. The first goal of my research is to develop a practical solution for identifying civil aircraft dynamical models using historical flights data. The second goal is to use such models to reduce future flights fuel consumption and CO2 emissions through trajectory optimization.</p>
 
-  ::-moz-selection {
-    background: #049CDB;
-    color: #FFF;
-    text-shadow: none;
-  }
+<p>My main research interests are:</p>
+<ul>
+	<li><strong>Statistical Learning:</strong> Linear model, Multi-task/Multi-output learning, feature selection, kernel methods.</li>
+	<li><strong>Control theory:</strong> Optimal control, HJB, Dynamic Programming.</li>
+	<li><strong>Optimization:</strong> First order methods, nonsmooth functions, nonconvex optimization.</li>
+	<li><strong>Applications:</strong> Trajectory optimization, Dynamical systems identification.</li>
+</ul>
 
-  ::selection {
-    background: #049CDB;
-    color: #FFF;
-    text-shadow: none;
-  }
+<h2>Publications</h2>
+<ul>
+	<li><strong>J. F. Bonnans, B. Gregorutti, P. Martinon, C. Rommel.</strong> <em>Aircraft dynamics identification for optimal control.</em> <a href="">European Conference on Aeronautics and Space Sciences (EUCASS)</a>, 2017.</li>
+</ul>
 
-  html { border-top: 4px solid #232E35; }
+<h2>Poster</h2>
+<ul>
+	<li><strong>September 14-15th 2017</strong> &#8226 Paris &#8226 <a href="https://bigmine.github.io/jDSEParis17/">Junior Conference on Data Science and Engineering</a>, Université Paris-Saclay &#8226 <em>Aircraft Dynamics Identification</em></li>
+	<li><strong>August 28th - September 1st 2017</strong> &#8226 Paris &#8226 <a href="http://www.ds3-datascience-polytechnique.fr/">Data Science Summer School</a>, Ecole Polytechnique &#8226 <em>Aircraft Dynamics Identification.</em></li>
+	<li><strong>October 20-21th 2016</strong> &#8226 Paris &#8226 <a href="http://www.ihp.fr/fr/actualite/mathoxynum/concours">Mathématiques, Oxygène du numérique</a>, IHP &#8226 <em>Exploration de données pour l'optimisation de trajectoires aériennes.</em></li>
+	<li><strong>October 4-5th 2016</strong> &#8226 Paris &#8226 <a href="https://www.universite-paris-saclay.fr/fr/transition-energetique">Workshop Transition Energetique</a>, EDF &#8226 <em>Exploration de données aéronautiques au service de la consommation de carburant.</em></li>
+</ul>
 
-  html, li a {
-    background: white;
-    color: #333;
-  }
+<h2>Talks</h2>
+<ul>
+	<li><strong>July 4th 2017</strong> &#8226 Milan &#8226 <a href="">EUCASS 2017</a> &#8226 <em>Aircraft dynamics identification for optimal control.</em></li>
+	<li><strong>May 5th 2017</strong> &#8226 Paris &#8226 <ins>Séminaire des doctorants du CMAP</ins> &#8226 <em>Aircraft Dynamics Identification</em></li>
+	<li><strong>February 23rd 2017</strong> &#8226 Paris &#8226 <ins>CMAP Journal Club</ins> &#8226 <em>Presentation of: C. Ciliberto, A. Rudi, L. Rosasco. A consistent regularization approach for structured prediction. NIPS, 2016</em></li>
+</ul>
 
-  body {
-    font: .6em/1.618 "PTSerif", Georgia, serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: antialiased;
-    font-smoothing: antialiased;
-  }
-
-  .wrapper {
-    max-width: 32em;
-    padding: 1.618em;
-    margin: 0 auto;
-  }
-
-  p {
-    text-align: justify;
-    text-justify: newspaper;
-    font-size: 110%;
-    line-height: 1.75;
-  }
-
-  h1 { font-size: 175%; }
-
-  h2 { font-size: 125%; }
-
-  a {
-    color: #049CDB;
-    text-decoration: none;
-    outline: none;
-  }
-
-  a:hover { text-decoration: underline; }
-
-  #me {
-    display: block;
-    width: 60px;
-    border-radius: 50%;
-    margin: 0 auto;
-    padding: .809em 0;
-  }
-
-  nav li {
-    font-family: "PTSans", sans-serif;
-    font-weight: 700;
-  }
-
-  #tagline {
-    padding-bottom: .809em;
-    border-bottom: thin solid #F3F3F3;
-  }
-
-  p:first-of-type { text-indent: 1.6em; }
-
-  nav {
-    border-top: thin solid #999;
-    border-bottom: thin solid #999;
-    margin-bottom: 1.618em;
-  }
-
-  nav li {
-    width: 24%;
-    display: inline-block;
-  }
-
-  nav ul { padding-left: 0; }
-
-  h1, h2, nav ul, #tagline { text-align: center; }
-
-  @media (min-width:641px) {
-    body { font-size: 1em; }
-    #me { width: 120px; }
-  }
-  </style>
-</head>
-<body>
-  <div class="wrapper">
-    <nav>
-      <ul>
-        <li><a href="mailto:hi@jawrainey.me?subject=Hello:">Contact</a></li>
-        <li><a href="https://github.com/jawrainey">Github</a></li>
-        <li><a href="https://uk.linkedin.com/in/jawrainey">LinkedIn</a></li>
-        <li><a href="https://twitter.com/jawrainey">Twitter</a></li>
-      </ul>
-    </nav>
-    <h1>Cédric Rommel</h1>
-    <img id="me" data-src="/img/profile.jpg" title="Cédric Rommel &mdash; PhD Student at Ecole Polytechnique working at Safety Line">
-    <h2 id="tagline"><em>PhD Student at Ecole Polytechnique (<a href="http://www.cmap.polytechnique.fr/">CMAP</a>), working at <a href="https://www.safety-line.fr/">Safety Line</a></em></h2>
-    <p>My research examines new ways to interact with, consume, and collaboratively interpret speech datasets (such as interviews or podcasts) through the design, development, and evaluation of interactive web technologies. I have previous experience developing scientific software and public health technologies.</p>
-  </div>
-  <script>
-  !function(a,b,c,d,e,f,g){a.GoogleAnalyticsObject=e,a[e]=a[e]||function(){(a[e].q=a[e].q||[]).push(arguments)},a[e].l=1*new Date,f=b.createElement(c),g=b.getElementsByTagName(c)[0],f.async=1,f.src=d,g.parentNode.insertBefore(f,g)}(window,document,"script","https://www.google-analytics.com/analytics.js","ga"),ga("create","UA-31608066-1","auto"),ga("send","pageview");
-  window.onload=function(a){document.getElementById("me").setAttribute("src",document.getElementById("me").getAttribute("data-src"))};
-  </script>
-</body>
-</html>
