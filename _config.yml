@@ -52,14 +52,14 @@ github: cedricrommel
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: cedric.rommel@safety-line.fr
+email: cedric@ava.me
 
 authors:
-    cedricrommel:
-        name: Cédric Rommel
-        bio: Machine Learning Scientist at Ava
-        external-image: false
-        picture: assets/images/profile.jpg
+  cedricrommel:
+    name: Cédric Rommel
+    bio: Machine Learning Scientist at Ava
+    external-image: false
+    picture: assets/images/profile.jpg
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -103,4 +103,4 @@ plugins:
   - jemoji
 
 jekyll-mentions:
-    base_url: https://github.com
+  base_url: https://github.com
