@@ -52,7 +52,7 @@ github: cedricrommel
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: cedric.rommel@safety-line.fr
+email: cedric@ava.me
 
 authors:
     cedricrommel:
@@ -119,20 +119,3 @@ plugins:
 
 jekyll-mentions:
     base_url: https://github.com
-
-compress_html:
-    ignore:
-        envs:
-            - development
-            - stage
-
-exclude:
-    [
-        "travis.sh",
-        "README.md",
-        "Gemfile",
-        "Gemfile.lock",
-        "FAQ.md",
-        "node_modules",
-        "vendor",
-    ]
