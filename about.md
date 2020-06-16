@@ -5,43 +5,22 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I am a machine learning scientist and tech lead of the AI team at [Ava](https://www.ava.me/), working in speaker recognition research to help breaking communication barriers between the deaf & the hearing world. My current research and engineering topics include mainly real-time speaker diarization with multiple channels, metric learning and neural voice embeddings.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I obtained my PhD (CIFRE) in Machine Learning and Optimal Control from the [Ecole Polytechnique](https://www.polytechnique.edu/), under the supervision of [Frédéric Bonnans](http://www.cmap.polytechnique.fr/~bonnans/) and [Pierre Martinon](http://www.cmapx.polytechnique.fr/~martinon/) from INRIA's [COMMANDS team](https://team.inria.fr/commands/). I was also greatly advised by the researchers from the French start up [Safety Line](https://www.safety-line.fr/), which funded my PhD. During my thesis I could develop practical solutions for identifying civil aircraft dynamical models using historical flights data, and use such models to reduce future flights fuel consumption and CO2 emissions with model-based reinforcement learning. My work is now part of the product [OptiClimb](https://www.safety-line.fr/des-solutions-adaptees/opticlimb/), which is currently being used to deliver fuel efficient trajectories for flights all over the globe.
 
-<h2>Skills</h2>
+I also hold a MSc. in engineering and applied mathematics from [MINES ParisTech](https://www.mines-paristech.fr/).
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+## Research interests
 
-<h2>Projects</h2>
+(_non-exhaustive_)
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+-   Speech processing (mainly speaker diarization, speech separation)
+-   Representation learning
+-   Zero-shot learning
+-   Reinforcement learning and Optimal control
+-   Optimization
+-   Feature selection and sparse coding
+-   Multi-task learning
+-   Functional data analysis
+-   Online clustering
