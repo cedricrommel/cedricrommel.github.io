@@ -1,5 +1,5 @@
 # main text of home
-name: Cédric Rommel
+name: Cédric Rommel, PhD
 bio: Chief Machine Learning Scientist at Ava
 
 # twitter summary info
@@ -80,6 +80,7 @@ projects: false
 about: true
 blog: false
 publications: true
+talks: true
 
 # do you want to show the "read time" of the posts?
 read-time: false

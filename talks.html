@@ -1,0 +1,31 @@
+---
+layout: page
+title: Talks
+---
+
+<section class="list">
+    {% for year in site.data.talksYears%}
+        <h2 class="title">{{ year }}</h2>
+        {% for item in site.data.talks %}
+            {% if item.year == year%}
+                <div class="item {% if item.tag %}star{% endif %}">
+                    <aside>
+                        <time>
+                            {% if item.link %}[<a class="url" href="{{item.link}}">{{ item.category }}</a>]{% endif%}
+                        </time>
+                    </aside>
+                    <h3 class="title">
+                        <a class="url" href="{{item.eventLink}}">
+                            {{ item.event }}
+                        </a>
+                        &#8226
+                        <strong>
+                            <em>{{ item.title }}</em>.
+                            {% if item.tag %} - {{item.tag}} {% endif %}
+                        </strong>
+                    </h3>
+                </div>
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+</section>
