@@ -1,6 +1,6 @@
 # main text of home
 name: Cédric Rommel, PhD
-bio: Machine Learning Researcher at Parietal team (INRIA)
+bio: Machine Learning Researcher
 
 # twitter summary info
 description: My personal page #A blog about technology and stuff related
@@ -56,7 +56,7 @@ email: cedric@ava.me
 authors:
     cedricrommel:
         name: Cédric Rommel
-        bio: Machine Learning Researcher at Parietal team (INRIA)
+        bio: Machine Learning Researcher
         external-image: false
         picture: assets/images/profile.jpg
 
