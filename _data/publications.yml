@@ -22,6 +22,7 @@
   year: 2018
   category: publication
   journal: ESAIM Probability & Statistics
+  journalLink: https://www.esaim-ps.org/articles/ps/pdf/2021/01/ps190040.pdf
   halLink: https://hal.inria.fr/hal-01816407/document
   codeLink: https://github.com/cedricrommel/mean_marginal_likelihood
 - authors: C. Rommel, J. F. Bonnans, B. Gregorutti, P. Martinon
