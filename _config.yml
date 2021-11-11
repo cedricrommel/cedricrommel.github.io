@@ -13,7 +13,7 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: false
+resume-external: true
 resume-url: https://drive.google.com/file/d/1W9PadHo2p0SVahBT-dln-YJB6gKrC9f0/view?usp=sharing
 
 url: https://cedricrommel.github.io
