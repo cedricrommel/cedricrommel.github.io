@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: ./assets/pdfs/CV.pdf
+resume-url: https://drive.google.com/file/d/1W9PadHo2p0SVahBT-dln-YJB6gKrC9f0/view?usp=sharing
 
 url: https://cedricrommel.github.io
 # your url: http://USERNAME.github.io
