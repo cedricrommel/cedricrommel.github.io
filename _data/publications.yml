@@ -1,5 +1,5 @@
 - authors: C. Rommel, T. Moreau, J. Paillard, A. Gramfort
-  title: CADDA: Class-wise Automatic Differentiable Data Augmentation for EEG Signals
+  title: "CADDA: Class-wise Automatic Differentiable Data Augmentation for EEG Signals"
   year: 2021
   arxivLink: https://arxiv.org/abs/2106.13695
   category: preprint
