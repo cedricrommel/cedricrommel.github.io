@@ -19,13 +19,13 @@
   year: 2019
   journalLink: https://arc.aiaa.org/doi/abs/10.2514/1.G003996?journalCode=jgcd
   halLink: https://hal.inria.fr/hal-01819749/document
-  category: publication
+  category: journal
   journal: IAAA Journal of Guidance, Control, and Dynamics
   codeLink: https://github.com/cedricrommel/mean_marginal_likelihood
 - authors: C. Rommel, J. F. Bonnans, B. Gregorutti, P. Martinon
   title: Quantifying the Closeness to a Set of Random Curves via the Mean Marginal Likelihood
   year: 2021
-  category: publication
+  category: journal
   journal: ESAIM Probability & Statistics
   journalLink: https://www.esaim-ps.org/articles/ps/pdf/2021/01/ps190040.pdf
   halLink: https://hal.inria.fr/hal-01816407/document
@@ -39,5 +39,5 @@
   title: Aircraft dynamics identification for optimal control
   year: 2017
   journalLink: https://www.eucass.eu/doi/EUCASS2017-179.pdf
-  category: publication
+  category: conference
   journal: 7th European Conference on Aeronautics and Space Sciences (EUCASS)
