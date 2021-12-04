@@ -3,6 +3,12 @@
   year: 2021
   arxivLink: https://arxiv.org/abs/2106.13695
   category: preprint
+- authors: C. Rommel
+  title: Data analysis for aircraft trajectory optimization (Thesis)
+  year: 2018
+  halLink: ../assets/pdfs/manuscript.pdf
+  category: thesis
+  slidesLink: ../assets/pdfs/slides/slides-soutenance.pdf
 - authors: C. Rommel, J. F. Bonnans, B. Gregorutti, P. Martinon
   title: Structured Feature Selection of Continuous Dynamical Systems for Aircraft Dynamics Identification
   year: 2018
@@ -16,15 +22,9 @@
   category: publication
   journal: IAAA Journal of Guidance, Control, and Dynamics
   codeLink: https://github.com/cedricrommel/mean_marginal_likelihood
-- authors: C. Rommel
-  title: Data analysis for aircraft trajectory optimization (Thesis)
-  year: 2018
-  halLink: ../assets/pdfs/manuscript.pdf
-  category: thesis
-  slidesLink: ../assets/pdfs/slides/slides-soutenance.pdf
 - authors: C. Rommel, J. F. Bonnans, B. Gregorutti, P. Martinon
   title: Quantifying the Closeness to a Set of Random Curves via the Mean Marginal Likelihood
-  year: 2018
+  year: 2021
   category: publication
   journal: ESAIM Probability & Statistics
   journalLink: https://www.esaim-ps.org/articles/ps/pdf/2021/01/ps190040.pdf

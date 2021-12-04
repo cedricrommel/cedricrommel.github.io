@@ -4,6 +4,34 @@ title: Publications
 ---
 
 <section class="list">
+    {% for year in site.data.publicationYears%}
+        <h2 class="title">{{ year }}</h2>
+        {% for item in site.data.publications %}
+            {% if item.year == year%}
+                <div class="item">
+                    <aside>
+                        <time>
+                            {%if item.halLink%}[<a class="url" href="{{item.halLink}}">hal</a>]{%endif%}
+                            {%if item.arxivLink%}[<a class="url" href="{{item.arxivLink}}">arxiv</a>]{%endif%}
+                            {%if item.journalLink%}[<a class="url" href="{{item.journalLink}}">journal</a>]{%endif%}
+                            {%if item.slidesLink%}[<a class="url" href="{{item.slidesLink}}">slides</a>]{%endif%}
+                            {%if item.codeLink%}[<a class="url" href="{{item.codeLink}}">code</a>]{%endif%}
+                        </time>
+                    </aside>
+                    <h3 class="title">
+                        <strong>{{ item.authors }}</strong>.
+                        {{ item.title }},
+                        {% if item.journal %}
+                        <strong>in {{item.journal}},</strong>
+                        {%endif%}
+                        <strong>{{item.year}}.</strong>
+                    </h3>
+                </div>
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+</section>
+<!-- <section class="list">
     {% for item in site.data.publications %}
         <div class="item">
             <aside>
@@ -25,4 +53,4 @@ title: Publications
             </h3>
         </div>
     {% endfor %}
-</section>
+</section> -->
