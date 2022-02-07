@@ -1,8 +1,14 @@
+- authors: C. Rommel, T. Moreau, A. Gramfort
+  title: "Deep invariant networks with differentiable augmentation layers"
+  year: 2022
+  arxivLink: https://arxiv.org/abs/2202.02142
+  category: preprint
 - authors: C. Rommel, T. Moreau, J. Paillard, A. Gramfort
   title: "CADDA: Class-wise Automatic Differentiable Data Augmentation for EEG Signals"
-  year: 2021
+  year: 2022
   arxivLink: https://arxiv.org/abs/2106.13695
-  category: preprint
+  category: conference
+  journal: International Conference on Learning Representations (ICLR)
 - authors: C. Rommel
   title: Data analysis for aircraft trajectory optimization (Thesis)
   year: 2018
