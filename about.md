@@ -5,7 +5,7 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-I am currently a postdoctoral researcher in the [Parietal team](https://team.inria.fr/parietal/) (Inria), working in deep learning and computational neuroscience. My research currently revolves around the idea of learning and exploiting data invariances to make deep neural networks more data efficient. This includes for example learning optimal data augmentations directly from datasets for which those are not intuitive, such brain electrical signals. This question is particularly important for applications where labelled data are scarce. Besides helping with sample complexity, leveraging data invariances allows to better generalize out of distribution and also to learn more about where target information is encoded in neurological signals.
+I am currently a postdoctoral researcher in the [Parietal team](https://team.inria.fr/parietal/) (Inria), working in deep learning and computational neuroscience. My research currently revolves around the idea of learning and exploiting data invariances to make deep neural networks more data efficient. This includes for example learning optimal data augmentations directly from datasets for which those are not intuitive, such as brain electrical signals. This question is particularly important for applications where labeled data is scarce. Besides helping with sample complexity, leveraging data invariances allows to better generalize out of distribution and also to learn more about where target information is encoded in neurological signals.
 
 Previously, I was the scientific and engineering leader of the AI team at [Ava](https://www.ava.me/), working in speaker recognition technology for deaf and hard-of-hearing accessibility. Me and my team were then mainly focused on real-time speaker recognition and diarization with multiple microphones, which involved works in online sequential models, zero-shot learning and neural architectures for speech processing.
 
@@ -36,3 +36,7 @@ Before my PhD thesis I studied at [MINES ParisTech](https://www.mines-paristech.
 -   NeurIPS (2019, 2021)
 -   ICLR (2022)
 -   ICML (2020 _[top 33% reviewer](https://drive.google.com/file/d/1_m4XfjNUuJdali8ZasBz2tuQaZRJVYVd/view?usp=sharing)_), 2021, 2022)
+
+## Teaching
+
+Teaching assistant - _Introduction to machine learning (to engineering master students)_ - MINES ParisTech, 2021
