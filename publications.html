@@ -11,6 +11,7 @@ title: Publications
                 <div class="item">
                     <aside>
                         <time>
+                            {%if item.localLink%}[<a class="url" href="{{item.localLink}}">preprint</a>]{%endif%}
                             {%if item.halLink%}[<a class="url" href="{{item.halLink}}">hal</a>]{%endif%}
                             {%if item.arxivLink%}[<a class="url" href="{{item.arxivLink}}">arxiv</a>]{%endif%}
                             {%if item.journalLink and item.category == "journal"%}[<a class="url" href="{{item.journalLink}}">journal</a>]{%endif%}
