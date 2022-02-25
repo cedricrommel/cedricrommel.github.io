@@ -6,7 +6,7 @@
 - authors: J. Paillard, T. Moreau, C. Rommel, A. Gramfort
   title: "Data augmentation for EEG signals"
   year: 2022
-  localLink: https://drive.google.com/file/d/1JmD8h5gBee9cs6gg4ND7bvzbqXnTvZp_/view?usp=sharing
+  localLink: ../assets/pdfs/tech_report.pdf
   category: preprint
 - authors: C. Rommel, T. Moreau, J. Paillard, A. Gramfort
   title: "CADDA: Class-wise Automatic Differentiable Data Augmentation for EEG Signals"
