@@ -3,7 +3,7 @@
   year: 2022
   arxivLink: https://arxiv.org/abs/2202.02142
   category: preprint
-- authors: J. Paillard, C. Rommel, T. Moreau, A. Gramfort
+- authors: J. Paillard*, C. Rommel*, T. Moreau, A. Gramfort
   title: "Data augmentation for learning predictive models on EEG: a systematic comparison"
   year: 2022
   localLink: ../assets/pdfs/systematic_comparison.pdf
