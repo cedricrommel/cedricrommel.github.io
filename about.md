@@ -34,7 +34,7 @@ But also, from my thesis:
 
 -   NeurIPS (2019, 2021)
 -   ICLR (2022)
--   ICML (2020 _[top 33% reviewer](https://drive.google.com/file/d/1_m4XfjNUuJdali8ZasBz2tuQaZRJVYVd/view?usp=sharing)_), 2021, 2022 _[top 10% reviewer](https://icml.cc/Conferences/2021/Reviewers))
+-   ICML (2020 (_[top 33% reviewer](https://drive.google.com/file/d/1_m4XfjNUuJdali8ZasBz2tuQaZRJVYVd/view?usp=sharing)_), 2021, 2022 (_[top 10% reviewer](https://icml.cc/Conferences/2021/Reviewers)_)
 
 ## Teaching
 
