@@ -20,22 +20,21 @@ Before my PhD thesis I studied at [MINES ParisTech](https://www.mines-paristech.
 
 (_non-exhaustive_)
 
--   Deep learning in general
+-   Deep learning and representation learning in general
 -   Automatic data augmentation
--   Representation learning
--   Speech processing (mainly speaker diarization, speech separation)
+-   Invariant/Equivariant networks (geometric deep learning)
 -   Zero-shot learning
--   Optimal control
+-   Deep learning for signals (Speech processing, EEG classification, ...)
+
+But also, from my thesis:
+-   Reinforcement learning (mainly offline and model-based, although MFRL also interests me)
 -   Optimization
--   Feature selection and sparse coding
--   Multi-task learning
--   Functional data analysis
 
 ## Reviewer
 
 -   NeurIPS (2019, 2021)
 -   ICLR (2022)
--   ICML (2020 _[top 33% reviewer](https://drive.google.com/file/d/1_m4XfjNUuJdali8ZasBz2tuQaZRJVYVd/view?usp=sharing)_), 2021, 2022)
+-   ICML (2020 _[top 33% reviewer](https://drive.google.com/file/d/1_m4XfjNUuJdali8ZasBz2tuQaZRJVYVd/view?usp=sharing)_), 2021, 2022 _[top 10% reviewer](https://icml.cc/Conferences/2021/Reviewers))
 
 ## Teaching
 
