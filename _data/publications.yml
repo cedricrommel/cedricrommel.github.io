@@ -3,6 +3,7 @@
   year: 2022
   arxivLink: https://arxiv.org/pdf/2206.14483.pdf
   category: preprint
+  codeLink: https://github.com/eeg-augmentation-benchmark/eeg-augmentation-benchmark-2022
 - authors: C. Rommel, T. Moreau, A. Gramfort
   title: "Deep invariant networks with differentiable augmentation layers"
   year: 2022
