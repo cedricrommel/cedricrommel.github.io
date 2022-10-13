@@ -21,13 +21,14 @@ Before my PhD thesis I studied at [MINES ParisTech](https://www.mines-paristech.
 (_non-exhaustive_)
 
 -   Deep learning and representation learning in general
--   Automatic data augmentation
--   Invariant/Equivariant networks (geometric deep learning)
--   Zero-shot learning
+-   Data augmentation
+-   Geometric deep learning (invariant/equivariant networks)
 -   Deep learning for signals (Speech processing, EEG classification, ...)
+-   Zero-shot learning
 
 But also, from my thesis:
 -   Reinforcement learning (mainly offline and model-based, although MFRL also interests me)
+-   Learning differential equations
 -   Optimization
 
 ## Reviewer
@@ -38,4 +39,5 @@ But also, from my thesis:
 
 ## Teaching
 
+Teaching assistant - _Introduction to data science (to engineering bachelor students)_ - MINES ParisTech, 2022
 Teaching assistant - _Introduction to machine learning (to engineering master students)_ - MINES ParisTech, 2021
