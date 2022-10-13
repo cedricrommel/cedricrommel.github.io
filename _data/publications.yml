@@ -10,6 +10,7 @@
   arxivLink: https://arxiv.org/abs/2202.02142
   category: conference
   journal: Advances on Neural Information Processing Systems (NeurIPS)
+  codeLink: https://github.com/cedricrommel/augnet
 - authors: C. Rommel, T. Moreau, J. Paillard, A. Gramfort
   title: "CADDA: Class-wise Automatic Differentiable Data Augmentation for EEG Signals"
   year: 2022
