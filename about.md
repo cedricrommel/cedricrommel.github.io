@@ -36,5 +36,5 @@ But also, from my thesis:
 
 ## Teaching
 
-Teaching assistant - _Introduction to data science (to engineering bachelor students)_ - MINES ParisTech, 2022
-Teaching assistant - _Introduction to machine learning (to engineering master students)_ - MINES ParisTech, 2021
+- Teaching assistant - _Introduction to data science (to engineering bachelor students)_ - MINES ParisTech, 2022
+- Teaching assistant - _Introduction to machine learning (to engineering master students)_ - MINES ParisTech, 2021
