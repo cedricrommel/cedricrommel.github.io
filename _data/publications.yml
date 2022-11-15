@@ -2,7 +2,8 @@
   title: "Data augmentation for learning predictive models on EEG: a systematic comparison"
   year: 2022
   arxivLink: https://arxiv.org/pdf/2206.14483.pdf
-  category: preprint
+  journalLink: https://iopscience.iop.org/article/10.1088/1741-2552/aca220
+  category: journal
   codeLink: https://github.com/eeg-augmentation-benchmark/eeg-augmentation-benchmark-2022
 - authors: C. Rommel, T. Moreau, A. Gramfort
   title: "Deep invariant networks with differentiable augmentation layers"
