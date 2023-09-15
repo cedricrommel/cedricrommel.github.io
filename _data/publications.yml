@@ -1,7 +1,18 @@
+- authors: C. Rommel, E. Valle, M. Chen, S. Khalfaoui, R. Marlet, M. Cord, P. Pérez
+  title: "DiffHPE: Robust, Coherent 3D Human Pose Lifting with Diffusion"
+  year: 2023
+  arxivLink: https://arxiv.org/abs/2309.01575
+  category: conference
+  journal: International Conference on Computer Vision Workshops (Analysis and Modeling of Faces and Gestures)
+- authors: B. Aristimunha, R. Y. de Camargo, W. H. Lopez Pinaya, S. Chevallier, A. Gramfort, C. Rommel
+  title: "Evaluating the structure of cognitive tasks with transfer learning"
+  year: 2023
+  arxivLink: https://arxiv.org/abs/2308.02408
+  category: preprint
 - authors: C. Rommel, J. Paillard, T. Moreau, A. Gramfort
   title: "Data augmentation for learning predictive models on EEG: a systematic comparison"
   year: 2022
-  arxivLink: https://arxiv.org/pdf/2206.14483.pdf
+  arxivLink: https://arxiv.org/abs/2206.14483
   journalLink: https://iopscience.iop.org/article/10.1088/1741-2552/aca220
   category: journal
   codeLink: https://github.com/eeg-augmentation-benchmark/eeg-augmentation-benchmark-2022
