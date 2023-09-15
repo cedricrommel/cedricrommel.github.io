@@ -1,15 +1,15 @@
-- authors: C. Rommel, E. Valle, M. Chen, S. Khalfaoui, R. Marlet, M. Cord, P. Pérez
+- authors: <u>C. Rommel</u>, E. Valle, M. Chen, S. Khalfaoui, R. Marlet, M. Cord, P. Pérez
   title: "DiffHPE: Robust, Coherent 3D Human Pose Lifting with Diffusion"
   year: 2023
   arxivLink: https://arxiv.org/abs/2309.01575
   category: conference
   journal: International Conference on Computer Vision (ICCV), Analysis and Modeling of Faces and Gestures workshop
-- authors: B. Aristimunha, R. Y. de Camargo, W. H. Lopez Pinaya, S. Chevallier, A. Gramfort, C. Rommel
+- authors: B. Aristimunha, R. Y. de Camargo, W. H. Lopez Pinaya, S. Chevallier, A. Gramfort, <u>C. Rommel</u>
   title: "Evaluating the structure of cognitive tasks with transfer learning"
   year: 2023
   arxivLink: https://arxiv.org/abs/2308.02408
   category: preprint
-- authors: C. Rommel, J. Paillard, T. Moreau, A. Gramfort
+- authors: <u>C. Rommel</u>, J. Paillard, T. Moreau, A. Gramfort
   title: "Data augmentation for learning predictive models on EEG: a systematic comparison"
   year: 2022
   arxivLink: https://arxiv.org/abs/2206.14483
@@ -17,7 +17,7 @@
   category: journal
   journal: Journal of Neural Engineering
   codeLink: https://github.com/eeg-augmentation-benchmark/eeg-augmentation-benchmark-2022
-- authors: C. Rommel, T. Moreau, A. Gramfort
+- authors: <u>C. Rommel</u>, T. Moreau, A. Gramfort
   title: "Deep invariant networks with differentiable augmentation layers"
   year: 2022
   arxivLink: https://arxiv.org/abs/2202.02142
@@ -25,25 +25,25 @@
   journal: Advances on Neural Information Processing Systems (NeurIPS)
   codeLink: https://github.com/cedricrommel/augnet
   videoLink: https://neurips.cc/virtual/2022/poster/54804
-- authors: C. Rommel, T. Moreau, J. Paillard, A. Gramfort
+- authors: <u>C. Rommel</u>, T. Moreau, J. Paillard, A. Gramfort
   title: "CADDA: Class-wise Automatic Differentiable Data Augmentation for EEG Signals"
   year: 2022
   arxivLink: https://arxiv.org/abs/2106.13695
   videoLink: https://iclr.cc/virtual/2022/poster/7154
   category: conference
   journal: International Conference on Learning Representations (ICLR)
-- authors: C. Rommel
+- authors: <u>C. Rommel</u>
   title: Data analysis for aircraft trajectory optimization (Thesis)
   year: 2018
   halLink: ../assets/pdfs/manuscript.pdf
   category: thesis
   slidesLink: ../assets/pdfs/slides/slides-soutenance.pdf
-- authors: C. Rommel, J. F. Bonnans, B. Gregorutti, P. Martinon
+- authors: <u>C. Rommel</u>, J. F. Bonnans, B. Gregorutti, P. Martinon
   title: Structured Feature Selection of Continuous Dynamical Systems for Aircraft Dynamics Identification
   year: 2018
   halLink: https://hal.archives-ouvertes.fr/hal-01965959/document
   category: preprint
-- authors: C. Rommel, J. F. Bonnans, B. Gregorutti, P. Martinon
+- authors: <u>C. Rommel</u>, J. F. Bonnans, B. Gregorutti, P. Martinon
   title: Gaussian Mixture Penalty for Trajectory Optimization Problems
   year: 2019
   journalLink: https://arc.aiaa.org/doi/abs/10.2514/1.G003996?journalCode=jgcd
@@ -51,7 +51,7 @@
   category: journal
   journal: IAAA Journal of Guidance, Control, and Dynamics
   codeLink: https://github.com/cedricrommel/mean_marginal_likelihood
-- authors: C. Rommel, J. F. Bonnans, B. Gregorutti, P. Martinon
+- authors: <u>C. Rommel</u>, J. F. Bonnans, B. Gregorutti, P. Martinon
   title: Quantifying the Closeness to a Set of Random Curves via the Mean Marginal Likelihood
   year: 2021
   category: journal
@@ -59,12 +59,12 @@
   journalLink: https://www.esaim-ps.org/articles/ps/pdf/2021/01/ps190040.pdf
   halLink: https://hal.inria.fr/hal-01816407/document
   codeLink: https://github.com/cedricrommel/mean_marginal_likelihood
-- authors: C. Rommel, J. F. Bonnans, B. Gregorutti, P. Martinon
+- authors: <u>C. Rommel</u>, J. F. Bonnans, B. Gregorutti, P. Martinon
   title: Block sparse linear models for learning structured dynamical systems in aeronautics
   year: 2017
   halLink: https://hal.inria.fr/hal-01816400/document
   category: preprint
-- authors: C. Rommel, J. F. Bonnans, B. Gregorutti, P. Martinon
+- authors: <u>C. Rommel</u>, J. F. Bonnans, B. Gregorutti, P. Martinon
   title: Aircraft dynamics identification for optimal control
   year: 2017
   journalLink: https://www.eucass.eu/doi/EUCASS2017-179.pdf
