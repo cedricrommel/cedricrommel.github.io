@@ -2,6 +2,8 @@
   title: "DiffHPE: Robust, Coherent 3D Human Pose Lifting with Diffusion"
   year: 2023
   arxivLink: https://arxiv.org/abs/2309.01575
+  codeLink: https://github.com/valeoai/diffhpe
+  pageLink: https://valeoai.github.io/blog/publications/diffhpe/
   category: conference
   journal: International Conference on Computer Vision (ICCV), Analysis and Modeling of Faces and Gestures workshop
 - authors: B. Aristimunha, R. Y. de Camargo, W. H. Lopez Pinaya, S. Chevallier, A. Gramfort, <u>C. Rommel</u>
