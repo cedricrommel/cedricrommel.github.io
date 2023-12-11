@@ -10,7 +10,9 @@
   title: "Evaluating the structure of cognitive tasks with transfer learning"
   year: 2023
   arxivLink: https://arxiv.org/abs/2308.02408
-  category: preprint
+  workshopLink: ../assets/pdfs/NeurIPS_2023_AI_for_Science_Workshop.pdf
+  journal: Advances on Neural Information Processing Systems (NeurIPS) - AI4Science Workshop
+  category: workshop
 - authors: <u>C. Rommel</u>, J. Paillard, T. Moreau, A. Gramfort
   title: "Data augmentation for learning predictive models on EEG: a systematic comparison"
   year: 2022
