@@ -16,7 +16,7 @@ title: Publications
                             {%if item.arxivLink%}[<a class="url" href="{{item.arxivLink}}">arxiv</a>]{%endif%}
                             {%if item.journalLink and item.category == "journal"%}[<a class="url" href="{{item.journalLink}}">journal</a>]{%endif%}
                             {%if item.journalLink and item.category == "conference"%}[<a class="url" href="{{item.journalLink}}">proceedings</a>]{%endif%}
-                            {%if item.journalLink and item.category == "workshop"%}[<a class="url" href="{{item.workshopLink}}">proceedings</a>]{%endif%}
+                            {%if item.category == "workshop"%}[<a class="url" href="{{item.workshopLink}}">proceedings</a>]{%endif%}
                             {%if item.slidesLink%}[<a class="url" href="{{item.slidesLink}}">slides</a>]{%endif%}
                             {%if item.codeLink%}[<a class="url" href="{{item.codeLink}}">code</a>]{%endif%}
                             {%if item.pageLink%}[<a class="url" href="{{item.pageLink}}">webpage</a>]{%endif%}
