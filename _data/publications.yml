@@ -1,3 +1,8 @@
+- authors: <u>C. Rommel</u>, V. Letzelter, N. Samet, R. Marlet, M. Cord, P. Pérez, E. Valle
+  title: "ManiPose: Manifold-Constrained Multi-Hypothesis 3D Human Pose Estimation"
+  year: 2023
+  arxivLink: https://arxiv.org/abs/2312.06386
+  category: preprint
 - authors: <u>C. Rommel</u>, E. Valle, M. Chen, S. Khalfaoui, R. Marlet, M. Cord, P. Pérez
   title: "DiffHPE: Robust, Coherent 3D Human Pose Lifting with Diffusion"
   year: 2023
