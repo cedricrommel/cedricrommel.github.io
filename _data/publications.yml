@@ -1,3 +1,9 @@
+- authors: V. Letzelter, D. Perera, <u>C. Rommel</u>, M. Fontaine, S. Essid, G. Richard, P. Perez
+  title: "Winner-takes-all learners are geometry-aware conditional density estimators"
+  year: 2024
+  arxivLink: https://openreview.net/pdf?id=SAbL40d8A4
+  category: conference
+  journal: International Conference on Machine Learning (ICML)
 - authors: <u>C. Rommel</u>, V. Letzelter, N. Samet, R. Marlet, M. Cord, P. Pérez, E. Valle
   title: "ManiPose: Manifold-Constrained Multi-Hypothesis 3D Human Pose Estimation"
   year: 2023
